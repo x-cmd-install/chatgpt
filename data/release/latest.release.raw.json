@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8236869,
       "digest": null,
-      "download_count": 717,
+      "download_count": 718,
       "created_at": "2024-06-09T13:50:43Z",
       "updated_at": "2024-06-09T13:50:44Z",
       "browser_download_url": "https://github.com/j178/chatgpt/releases/download/v1.3.5/chatgpt_Darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8385723,
       "digest": null,
-      "download_count": 5014,
+      "download_count": 5017,
       "created_at": "2024-06-09T13:50:43Z",
       "updated_at": "2024-06-09T13:50:43Z",
       "browser_download_url": "https://github.com/j178/chatgpt/releases/download/v1.3.5/chatgpt_Linux_x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8016974,
       "digest": null,
-      "download_count": 1266,
+      "download_count": 1267,
       "created_at": "2024-06-09T13:50:43Z",
       "updated_at": "2024-06-09T13:50:43Z",
       "browser_download_url": "https://github.com/j178/chatgpt/releases/download/v1.3.5/chatgpt_Windows_arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8490869,
       "digest": null,
-      "download_count": 13178,
+      "download_count": 13183,
       "created_at": "2024-06-09T13:50:43Z",
       "updated_at": "2024-06-09T13:50:43Z",
       "browser_download_url": "https://github.com/j178/chatgpt/releases/download/v1.3.5/chatgpt_Windows_x86_64.zip"
